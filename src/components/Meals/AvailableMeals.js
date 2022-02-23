@@ -7,25 +7,29 @@ const DUMMY_MEALS = [
   {
     id: "m1",
     title: "Sushi",
-    description: "Finest fish and veggies",
+    description:
+      "Lorem ipsum dolor sit amet, ",
     price: 22.99,
   },
   {
     id: "m2",
     title: "Schnitzel",
-    description: "A german specialty!",
+    description:
+      "Lorem ipsum dolor sit amet,",
     price: 16.5,
   },
   {
     id: "m3",
     title: "Barbecue Burger",
-    description: "American, raw, meaty",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu feugiat",
     price: 12.99,
   },
   {
     id: "m4",
     title: "Green Bowl",
-    description: "Healthy...and green...",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu feugiat",
     price: 18.99,
   },
 ];
